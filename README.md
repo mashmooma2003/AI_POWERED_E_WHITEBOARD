@@ -1,8 +1,10 @@
-AI-Powered E-Whiteboard
+AI-Powered E-Whiteboard :
+
 An interactive digital whiteboard application that uses real-time computer vision and machine learning to allow users to draw, organize notes, and interact on a virtual canvas using hand gestures.
 
-Key Features
-Gesture-Based Drawing: Freehand writing and drawing using fingertip tracking via a webcam.
+Key Features :
+
+Gesture-Based Drawing: Freehand writing and drawing using fingertip tracking via a   webcam.
 
 Handwriting OCR: Converts handwritten text on the canvas into clean, digital text using Tesseract OCR.
 
@@ -12,7 +14,8 @@ Notes to PDF Export: Saves and converts entire canvas sessions or handwritten no
 
 Dynamic Canvas Tools: Switch pen colors, adjust stroke thickness, or activate eraser mode seamlessly.
 
-Tech Stack
+Tech Stack :
+
 Language: Python
 
 Computer Vision & ML: OpenCV, MediaPipe
